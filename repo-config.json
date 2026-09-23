@@ -1,0 +1,11 @@
+{
+  "name": "duplicate-file-finder",
+  "description": "Find duplicate files using file size grouping and SHA-256 checksums without deleting anything.",
+  "topics": [
+    "python",
+    "cli",
+    "sha256",
+    "duplicate-files",
+    "file-management"
+  ]
+}
